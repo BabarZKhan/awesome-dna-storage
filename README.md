@@ -56,6 +56,11 @@
 - https://github.com/seandavi/awesome-single-cell
 - https://github.com/lanl/adscodex
 - https://github.com/microsoft/clustered-nanopore-reads-dataset
+- https://github.com/liyu95/DeepSimulator
+- https://github.com/yukiteruono/pbsim2
+- https://github.com/bcgsc/NanoSim
+- https://github.com/rrwick/Badread
+- https://github.com/gadihh/DNAStoralator
 
 
 # Blogs
