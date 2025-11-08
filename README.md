@@ -39,6 +39,7 @@
 - [2023_Error Correction for DNA Storage](https://ieeexplore.ieee.org/document/10262188)
 - [2023_GCNSA: DNA storage encoding with a graph convolutional network and self-attention](https://www.sciencedirect.com/science/article/pii/S2589004223003085)
 - [2023_Team develops technique for building DNA-based programmable gate arrays](https://phys.org/news/2023-09-team-technique-dna-based-programmable-gate.html)
+- [2023_Project Silica: Towards Sustainable Cloud Archival Storage in Glass](https://dl.acm.org/doi/10.1145/3600006.3613208)
 - [2024_A Bird-Eye view on DNA Storage Simulators](https://arxiv.org/abs/2404.04877)
 
 
