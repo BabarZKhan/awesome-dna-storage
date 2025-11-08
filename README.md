@@ -19,6 +19,7 @@
 - [2016_Forward Error Correction for DNA Data Storage](https://www.sciencedirect.com/science/article/pii/S1877050916308742)
 - [2016_Portable and Error-Free DNA-Based Data Storage](https://www.nature.com/articles/s41598-017-05188-1)
 - [2017_DNA Fountain enables a robust and efficient storage architecture](https://www.science.org/doi/10.1126/science.aaj2038)
+- [2017_Toward a DNA-Based Archival Storage System](https://dl.acm.org/doi/abs/10.1109/MM.2017.70)
 - [2018_Random access in large-scale DNA data storage](https://www.nature.com/articles/nbt.4079)
 - [2018_DNA MemoChip: Long-Term and High Capacity Information Storage and Select Retrieval](https://pubmed.ncbi.nlm.nih.gov/29481548/)
 - [2019_Driving the Scalability of DNA-Based Information Storage Systems](https://pubmed.ncbi.nlm.nih.gov/31117362/)
