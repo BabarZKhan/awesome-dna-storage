@@ -2,12 +2,13 @@
 
 # Contents
 - [research](#research):
+- [open-source projects](#open-source):
 - [videos](#videos):
 - [slides](#slides):
 - [standards](#standards)
 - [blogs](#blogs):
 
-# Research
+# open-source projects
 - https://github.com/abdul-rasool/EDS-Effective-DNA-Storage-System
 - https://github.com/itaiorr/Deep-DNA-based-storage
 - https://github.com/dna-storage/dnastorage
