@@ -7,6 +7,7 @@
 - [slides](#slides):
 - [standards](#standards)
 - [blogs](#blogs)
+- [DNA Storage Alliance members](#members)
 
 
 # Research
@@ -73,3 +74,40 @@
 - https://www.fraunhofer.de/en/press/research-news/2025/may-2025/synthetic-dna-as-mass-data-storage-of-the-future.html
 - https://blocksandfiles.com/2025/07/21/dna-storage-roadmap/
 - https://www.twistbioscience.com/blog/perspectives/dna-data-storage-setting-data-density-record-dna-fountain
+
+
+
+
+
+
+# DNA Storage Alliance members
+- Ansa Biotechnologies
+- Battelle
+- CATALOG
+- Center for Applied Nanobioscience & Medicine (University of Arizona)
+- Claude Nobs Foundation
+- Digital Preservation Coalition
+- DNA Script
+- EPFL (École Polytechnique Fédérale de Lausanne)
+- Functional Materials Lab (Swiss Federal
+- Institute of Technology, ETH Zurich, Switzerland)
+- George Church Lab (Harvard University)
+- I3S lab (Université Côte d'Azur and CNRS)
+- Illumina
+- Imagene
+- Imec
+- Iridia
+- Kioxia
+- Los Alamos National Labs
+- Microsoft
+- Molecular Assemblies
+- Molecular Information System Lab (University of Washington)
+- OligoArchive (Imperial College)
+- PFU America, Inc., a Fujitsu Company
+- Quantitative Scientific Solutions (QS-2)
+- Quantum
+- Seagate Technology
+- Semiconductor Research Corporation (SRC)
+- Spectra Logic
+- Twist Bioscience
+- Western Digital
