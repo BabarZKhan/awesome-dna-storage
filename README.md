@@ -56,3 +56,15 @@
 - https://github.com/seandavi/awesome-single-cell
 - https://github.com/lanl/adscodex
 - https://github.com/microsoft/clustered-nanopore-reads-dataset
+
+
+# Blogs
+- https://blog.igem.org/blog/2022/9/7/dna-data-storage
+- https://www.futuresplatform.com/blog/data-successfully-stored-dna
+- https://www.fifthquadrant.com.au/dna-data-storage-solving-our-data-crisis
+- https://www.micron.com/about/blog/applications/data-center/dnas-awesome-potential-to-store-the-worlds-data
+- https://felixneubeck.substack.com/p/is-dna-the-future-of-data-storage
+- https://sangerinstitute.blog/2022/05/17/six-unbelievable-things-you-probably-didnt-know-about-dna/
+- https://www.fraunhofer.de/en/press/research-news/2025/may-2025/synthetic-dna-as-mass-data-storage-of-the-future.html
+- https://blocksandfiles.com/2025/07/21/dna-storage-roadmap/
+- https://www.twistbioscience.com/blog/perspectives/dna-data-storage-setting-data-density-record-dna-fountain
