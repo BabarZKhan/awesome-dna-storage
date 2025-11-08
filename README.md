@@ -20,6 +20,7 @@
 - [2016_Portable and Error-Free DNA-Based Data Storage](https://www.nature.com/articles/s41598-017-05188-1)
 - [2017_DNA Fountain enables a robust and efficient storage architecture](https://www.science.org/doi/10.1126/science.aaj2038)
 - [2018_Random access in large-scale DNA data storage](https://www.nature.com/articles/nbt.4079)
+- [2018_DNA MemoChip: Long-Term and High Capacity Information Storage and Select Retrieval](https://pubmed.ncbi.nlm.nih.gov/29481548/)
 - [2019_Driving the Scalability of DNA-Based Information Storage Systems](https://pubmed.ncbi.nlm.nih.gov/31117362/)
 - [2019_Molecular digital data storage using DNA](https://www.nature.com/articles/s41576-019-0125-3)
 - [2020_Can We Store the Whole World's Data in DNA Storage?](https://www.usenix.org/conference/hotstorage20/presentation/li)
@@ -27,12 +28,16 @@
 - [2021_PRESERVING OUR DIGITAL LEGACY: AN INTRODUCTION TO DNA DATA STORAGE](https://dnastoragealliance.org/wp-content/uploads/2021/06/DNA-Data-Storage-Alliance-An-Introduction-to-DNA-Data-Storage.pdf)
 - [2021_DNA stability: a central design consideration for DNA data storage systems](https://www.nature.com/articles/s41467-021-21587-5)
 - [2021_IMG-DNA: approximate DNA storage for images](https://dl.acm.org/doi/10.1145/3456727.3463771)
+- [2021_Long term conservation of DNA at ambient temperature. Implications for DNA data storage](https://pubmed.ncbi.nlm.nih.gov/34763344/)
 - [2022_Data and image storage on synthetic DNA: existing solutions and challenges](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-022-00600-x)
 - [2022_Managing reliability skew in DNA storage](https://dl.acm.org/doi/10.1145/3470496.3527441)
 - [2023_Automated routing of droplets for DNA storage on a digital microfluidics platform](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00083d)
 - [2023_DP-DNA: A Digital Pattern-Aware DNA Encoding Scheme to Improve Encoding Density of DNA Storage](https://ieeexplore.ieee.org/document/10387655)
 - [2023_Efficiently Enabling Block Semantics and Data Updates in DNA Storage](https://dl.acm.org/doi/10.1145/3613424.3614308)
-
+- [2023_Error Correction for DNA Storage](https://ieeexplore.ieee.org/document/10262188)
+- [2023_GCNSA: DNA storage encoding with a graph convolutional network and self-attention](https://www.sciencedirect.com/science/article/pii/S2589004223003085)
+- [2023_Team develops technique for building DNA-based programmable gate arrays](https://phys.org/news/2023-09-team-technique-dna-based-programmable-gate.html)
+- [2024_A Bird-Eye view on DNA Storage Simulators](https://arxiv.org/abs/2404.04877)
 
 
 
