@@ -41,8 +41,7 @@
 - [2023_Team develops technique for building DNA-based programmable gate arrays](https://phys.org/news/2023-09-team-technique-dna-based-programmable-gate.html)
 - [2023_Project Silica: Towards Sustainable Cloud Archival Storage in Glass](https://dl.acm.org/doi/10.1145/3600006.3613208)
 - [2024_A Bird-Eye view on DNA Storage Simulators](https://arxiv.org/abs/2404.04877)
-
-
+- [2025_DNA data storage: A generative tool for Motif-based DNA storage](https://www.usenix.org/conference/fast25/presentation/brunmayr)
 
 # open-source projects
 - https://github.com/abdul-rasool/EDS-Effective-DNA-Storage-System
@@ -64,6 +63,8 @@
 - https://github.com/rrwick/Badread
 - https://github.com/gadihh/DNAStoralator
 - https://mesa.mosla.de/
+- https://zenodo.org/records/12575601
+- https://zenodo.org/records/12575387
 
 # Blogs
 - https://blog.igem.org/blog/2022/9/7/dna-data-storage
