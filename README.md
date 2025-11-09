@@ -42,6 +42,9 @@
 - [2023_Project Silica: Towards Sustainable Cloud Archival Storage in Glass](https://dl.acm.org/doi/10.1145/3600006.3613208)
 - [2024_A Bird-Eye view on DNA Storage Simulators](https://arxiv.org/abs/2404.04877)
 - [2025_DNA data storage: A generative tool for Motif-based DNA storage](https://www.usenix.org/conference/fast25/presentation/brunmayr)
+- [2025_Liquid-State Drive: A Case for DNA Block Device for Enormous Data](https://www.usenix.org/conference/fast25/presentation/zhou-jiahao)
+
+
 
 # open-source projects
 - https://github.com/abdul-rasool/EDS-Effective-DNA-Storage-System
