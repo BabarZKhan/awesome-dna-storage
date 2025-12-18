@@ -116,3 +116,6 @@
 - Spectra Logic
 - Twist Bioscience
 - Western Digital
+
+# Misc
+- https://www.linkedin.com/in/hyunjunpark0/
