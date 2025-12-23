@@ -119,3 +119,4 @@
 
 # Misc
 - https://www.linkedin.com/in/hyunjunpark0/
+- https://blocksandfiles.com/2025/05/06/dna-storage-gets-a-new-twist-with-atlas-data-storage/
