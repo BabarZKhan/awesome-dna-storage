@@ -1,4 +1,4 @@
-# dna-storage
+# Awesome DNA Storage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This repository provides a curated list of resources related to DNA storage, with a particular emphasis on open-source projects.
 
 # Contents
