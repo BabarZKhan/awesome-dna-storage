@@ -1,13 +1,11 @@
 # dna-storage
+This repository provides a curated list of resources related to DNA storage, with a particular emphasis on open-source projects.
 
 # Contents
 - [research](#research):
-- [open-source projects](#open-source):
-- [videos](#videos):
-- [slides](#slides):
-- [standards](#standards)
-- [blogs](#blogs)
-- [DNA Storage Alliance members](#members)
+- [open-source-projects](#open-source-projects):
+- [blogs](#blogs):
+- [DNA-Storage-Alliance-members](#DNA-Storage-Alliance-members):
 
 
 # Research
@@ -46,46 +44,47 @@
 
 
 
-# open-source projects
-- https://github.com/abdul-rasool/EDS-Effective-DNA-Storage-System
-- https://github.com/itaiorr/Deep-DNA-based-storage
-- https://github.com/dna-storage/dnastorage
-- https://github.com/Sonata165/DNA-Storage-Simulation
-- https://github.com/PParkJy/SAD-DNAstorage
-- https://github.com/DevChuriwala/DNA_Data_Storage
-- https://github.com/MW55/DNA-Aeon
-- https://github.com/BHam-1/DNArSim
-- https://github.com/allanino/DNA
-- https://github.com/BoreMore/DNA-storage
-- https://github.com/seandavi/awesome-single-cell
-- https://github.com/lanl/adscodex
-- https://github.com/microsoft/clustered-nanopore-reads-dataset
-- https://github.com/liyu95/DeepSimulator
-- https://github.com/yukiteruono/pbsim2
-- https://github.com/bcgsc/NanoSim
-- https://github.com/rrwick/Badread
-- https://github.com/gadihh/DNAStoralator
-- https://mesa.mosla.de/
-- https://zenodo.org/records/12575601
-- https://zenodo.org/records/12575387
+# open-source-projects
+- [EDS-Effective-DNA-Storage-System Public](https://github.com/abdul-rasool/EDS-Effective-DNA-Storage-System)
+- [Deep-DNA-based-storage](https://github.com/itaiorr/Deep-DNA-based-storage)
+- [dnastorage](https://github.com/dna-storage/dnastorage)
+- [DNA-Storage-Simulation](https://github.com/Sonata165/DNA-Storage-Simulation)
+- [SAD-DNAstorage](https://github.com/PParkJy/SAD-DNAstorage)
+- [DNA_Data_Storage](https://github.com/DevChuriwala/DNA_Data_Storage)
+- [DNA-Aeon](https://github.com/MW55/DNA-Aeon)
+- [DNArSim](https://github.com/BHam-1/DNArSim)
+- [DNA](https://github.com/allanino/DNA)
+- [DNA-storage](https://github.com/BoreMore/DNA-storage)
+- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
+- [adscodex](https://github.com/lanl/adscodex)
+- [clustered-nanopore-reads-dataset](https://github.com/microsoft/clustered-nanopore-reads-dataset)
+- [DeepSimulator](https://github.com/liyu95/DeepSimulator)
+- [pbsim2](https://github.com/yukiteruono/pbsim2)
+- [NanoSim](https://github.com/bcgsc/NanoSim)
+- [Badread](https://github.com/rrwick/Badread)
+- [DNAStoralator](https://github.com/gadihh/DNAStoralator)
+- [ssb5018/motif-generation-tool: v1.0.1](https://zenodo.org/records/12575601)
+- [ssb5018/dna-validation: v1.0.0](https://zenodo.org/records/12575387)
 
 # Blogs
-- https://blog.igem.org/blog/2022/9/7/dna-data-storage
-- https://www.futuresplatform.com/blog/data-successfully-stored-dna
-- https://www.fifthquadrant.com.au/dna-data-storage-solving-our-data-crisis
-- https://www.micron.com/about/blog/applications/data-center/dnas-awesome-potential-to-store-the-worlds-data
-- https://felixneubeck.substack.com/p/is-dna-the-future-of-data-storage
-- https://sangerinstitute.blog/2022/05/17/six-unbelievable-things-you-probably-didnt-know-about-dna/
-- https://www.fraunhofer.de/en/press/research-news/2025/may-2025/synthetic-dna-as-mass-data-storage-of-the-future.html
-- https://blocksandfiles.com/2025/07/21/dna-storage-roadmap/
-- https://www.twistbioscience.com/blog/perspectives/dna-data-storage-setting-data-density-record-dna-fountain
+- [dna-data-storage](https://blog.igem.org/blog/2022/9/7/dna-data-storage)
+- [data-successfully-stored-dna](https://www.futuresplatform.com/blog/data-successfully-stored-dna)
+- [dna-data-storage-solving-our-data-crisis](https://www.fifthquadrant.com.au/dna-data-storage-solving-our-data-crisis)
+- [dnas-awesome-potential-to-store-the-worlds-data](https://www.micron.com/about/blog/applications/data-center/dnas-awesome-potential-to-store-the-worlds-data)
+- [is-dna-the-future-of-data-storage](https://felixneubeck.substack.com/p/is-dna-the-future-of-data-storage)
+- [six-unbelievable-things-you-probably-didnt-know-about-dna](https://sangerinstitute.blog/2022/05/17/six-unbelievable-things-you-probably-didnt-know-about-dna/)
+- [synthetic-dna-as-mass-data-storage-of-the-future.html](https://www.fraunhofer.de/en/press/research-news/2025/may-2025/synthetic-dna-as-mass-data-storage-of-the-future.html)
+- [dna-storage-roadmap](https://blocksandfiles.com/2025/07/21/dna-storage-roadmap/)
+- [dna-data-storage-setting-data-density-record-dna-fountain](https://www.twistbioscience.com/blog/perspectives/dna-data-storage-setting-data-density-record-dna-fountain)
+- [dna-storage-gets-a-new-twist-with-atlas-data-storage](https://blocksandfiles.com/2025/05/06/dna-storage-gets-a-new-twist-with-atlas-data-storage/)
+- [first-commercially-available-dna-book-produced-by-storage-player-catalog](https://blocksandfiles.com/2025/01/17/first-commercially-available-dna-book-produced-by-storage-player-catalog/)
 
 
 
 
 
 
-# DNA Storage Alliance members
+# DNA-Storage-Alliance-members
 - Ansa Biotechnologies
 - Battelle
 - CATALOG
@@ -117,6 +116,3 @@
 - Twist Bioscience
 - Western Digital
 
-# Misc
-- https://www.linkedin.com/in/hyunjunpark0/
-- https://blocksandfiles.com/2025/05/06/dna-storage-gets-a-new-twist-with-atlas-data-storage/
