@@ -25,12 +25,16 @@ This repository provides a curated list of resources related to DNA storage, wit
 - [2019_Molecular digital data storage using DNA](https://www.nature.com/articles/s41576-019-0125-3)
 - [2020_Can We Store the Whole World's Data in DNA Storage?](https://www.usenix.org/conference/hotstorage20/presentation/li)
 - [2020_DNA storage: research landscape and future prospects](https://cdn.sciengine.com/doi/10.1093/nsr/nwaa007)
+- [2020_Low cost DNA data storage using photolithographic synthesis and advanced information reconstruction and error correction](https://www.nature.com/articles/s41467-020-19148-3)
+- [2020_Stabilizing synthetic DNA for long-term data storage with earth alkaline salts](https://pubs.rsc.org/en/content/articlehtml/2020/cc/d0cc00222d)
 - [2021_PRESERVING OUR DIGITAL LEGACY: AN INTRODUCTION TO DNA DATA STORAGE](https://dnastoragealliance.org/wp-content/uploads/2021/06/DNA-Data-Storage-Alliance-An-Introduction-to-DNA-Data-Storage.pdf)
+- [2021_Reading and writing digital data in DNA](https://www.researchgate.net/profile/Philipp-Antkowiak/publication/337639760_Reading_and_writing_digital_data_in_DNA/links/5fbd68dda6fdcc6cc663b0be/Reading-and-writing-digital-data-in-DNA.pdf)
 - [2021_DNA stability: a central design consideration for DNA data storage systems](https://www.nature.com/articles/s41467-021-21587-5)
 - [2021_IMG-DNA: approximate DNA storage for images](https://dl.acm.org/doi/10.1145/3456727.3463771)
 - [2021_Long term conservation of DNA at ambient temperature. Implications for DNA data storage](https://pubmed.ncbi.nlm.nih.gov/34763344/)
 - [2022_Data and image storage on synthetic DNA: existing solutions and challenges](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-022-00600-x)
 - [2022_Managing reliability skew in DNA storage](https://dl.acm.org/doi/10.1145/3470496.3527441)
+- [2022_Integrating DNA Encapsulates and Digital Microfluidics for Automated Data Storage in DNA](https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202107381)
 - [2023_Automated routing of droplets for DNA storage on a digital microfluidics platform](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00083d)
 - [2023_DP-DNA: A Digital Pattern-Aware DNA Encoding Scheme to Improve Encoding Density of DNA Storage](https://ieeexplore.ieee.org/document/10387655)
 - [2023_Efficiently Enabling Block Semantics and Data Updates in DNA Storage](https://dl.acm.org/doi/10.1145/3613424.3614308)
@@ -65,6 +69,17 @@ This repository provides a curated list of resources related to DNA storage, wit
 - [DNAStoralator](https://github.com/gadihh/DNAStoralator)
 - [ssb5018/motif-generation-tool: v1.0.1](https://zenodo.org/records/12575601)
 - [ssb5018/dna-validation: v1.0.0](https://zenodo.org/records/12575387)
+- [Chamaeleo](https://github.com/ntpz870817/Chamaeleo)
+- [nanopore_dna_storage](https://github.com/shubhamchandak94/nanopore_dna_storage)
+- [DNA-storage-YYC](https://github.com/ntpz870817/DNA-storage-YYC)
+- [DNAStorageToolkit](https://github.com/prongs1996/DNAStorageToolkit)
+- [dna_data_storage](https://github.com/reinhardh/dna_data_storage)
+- [LDPC_DNA_storage](https://github.com/shubhamchandak94/LDPC_DNA_storage)
+- [DNADigitalDataStorage](https://github.com/ZhangYizhe/DNADigitalDataStorage)
+- [DeSP](https://github.com/WangLabTHU/DeSP)
+- [Storage-D](https://github.com/DNAstorage-iSynBio/Storage-D)
+- [TrellisBMA](https://github.com/microsoft/TrellisBMA)
+- [Soft-decision-data-readout-for-DNA-storage](https://github.com/TJU-QiGe/Soft-decision-data-readout-for-DNA-storage)
 
 # Blogs
 - [dna-data-storage](https://blog.igem.org/blog/2022/9/7/dna-data-storage)
@@ -78,7 +93,8 @@ This repository provides a curated list of resources related to DNA storage, wit
 - [dna-data-storage-setting-data-density-record-dna-fountain](https://www.twistbioscience.com/blog/perspectives/dna-data-storage-setting-data-density-record-dna-fountain)
 - [dna-storage-gets-a-new-twist-with-atlas-data-storage](https://blocksandfiles.com/2025/05/06/dna-storage-gets-a-new-twist-with-atlas-data-storage/)
 - [first-commercially-available-dna-book-produced-by-storage-player-catalog](https://blocksandfiles.com/2025/01/17/first-commercially-available-dna-book-produced-by-storage-player-catalog/)
-
+- [DNA Data Storage: When the physics work but the economics don’t
+](https://blocksandfiles.com/2026/01/16/dna-data-storage-when-the-physics-work-but-the-economics-dont/)
 
 
 
